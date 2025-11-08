@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Emeka 👋
 
-<!--
-**emeka-io/emeka-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Aspiring Robotics & Automation engineer.<br/>
+- Mechatronics Engineering student<br/>
+- Currently learning python<br/>
+- I share daily updates of my journey here<br/>
+- I document my #100DaysOfCode On [X](https://x.com/emeka_io?s=21)
 
-Here are some ideas to get you started:
+  ## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@emeka_io) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=emeka-io&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)&lt;br/&gt;
+![](https://nirzak-streak-stats.vercel.app/?user=emeka-io&theme=ocean_dark&hide_border=false)&lt;br/&gt;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emeka-io&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=emeka-io&icon=0&color=0)](https://visitcount.itsvg.in)
+
+&lt;!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --&gt;
