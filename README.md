@@ -1,8 +1,7 @@
-## Hi, I'm Emeka 👋
+## Hi, I'm Emeka
 
-- an aspiring Robotics & Automation engineer<br/>
-- a Mechatronics engineering undergraduate <br/>
-- I'm currently learning python & electronics <br/>
+- a Mechatronics engineering undergraduate and an aspiring Robotics enginee<br/>
+- I'm currently learning about Embedded systems <br/>
 - I document my software & hardware journey here<br/>
 - Connect with me via [X](https://x.com/EmekaBuilds_?s=20)
 
